@@ -1,0 +1,219 @@
+{
+  "projectName": "ScratchAddons",
+  "projectOwner": "ScratchAddons",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "WorldLanguages",
+      "name": "World_Languages",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17484114?v=4",
+      "profile": "https://github.com/WorldLanguages",
+      "contributions": [
+        "projectManagement",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "apple502j",
+      "name": "apple502j",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33279053?v=4",
+      "profile": "https://github.com/apple502j",
+      "contributions": [
+        "maintenance",
+        "security",
+        "bug"
+      ]
+    },
+    {
+      "login": "tb148",
+      "name": "Tony Brown",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/28220642?v=4",
+      "profile": "https://scratch.mit.edu/users/TonyBrown148/",
+      "contributions": [
+        "code",
+        "infra"
+      ]
+    },
+    {
+      "login": "BoomerScratch",
+      "name": "Boomer001",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/60622217?v=4",
+      "profile": "https://scratch.mit.edu/users/Boomer001/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Explosion-Scratch",
+      "name": "--Explosion--",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/61319150?v=4",
+      "profile": "https://github.com/Explosion-Scratch",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "GrahamSH-LLK",
+      "name": "GrahamSH",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/64214252?v=4",
+      "profile": "https://github.com/GrahamSH-LLK",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "mxmou",
+      "name": "MaxiMouse",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/51849865?v=4",
+      "profile": "https://scratch.mit.edu/users/Maximouse",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "griffpatch",
+      "name": "griffpatch",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6737342?v=4",
+      "profile": "https://github.com/griffpatch",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Hans5958",
+      "name": "Hans5958",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11584103?v=4",
+      "profile": "https://github.com/Hans5958",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "GDUcrash",
+      "name": "Ucrash",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/35695734?v=4",
+      "profile": "https://github.com/GDUcrash",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "JeffaloBob",
+      "name": "Jeffalo",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/40470736?v=4",
+      "profile": "https://github.com/JeffaloBob",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "GarboMuffin",
+      "name": "Thomas Weber",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33787854?v=4",
+      "profile": "https://github.com/GarboMuffin",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "towerofnix",
+      "name": "(quasar) nebula",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9948030?v=4",
+      "profile": "https://git.ed1.club/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "NoobTracker",
+      "name": "NoobTracker",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/63962365?v=4",
+      "profile": "https://github.com/NoobTracker",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "lholliger",
+      "name": "Lukas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14064434?v=4",
+      "profile": "https://holliger.me/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "easrng",
+      "name": "easrng",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/23086727?v=4",
+      "profile": "https://easrng-blag.glitch.me/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Ani-Xan",
+      "name": "Xan on Scratch",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/57809064?v=4",
+      "profile": "https://github.com/Ani-Xan",
+      "contributions": [
+        "bug",
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "YOYITsM3M8",
+      "name": "YOYITsM3M8",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/49005044?v=4",
+      "profile": "https://yoyitsm3m8.github.io/",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Platinum-Phoenix",
+      "name": "Platinum Phoenix",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54418727?v=4",
+      "profile": "https://github.com/Platinum-Phoenix",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "scratchusernamemrtbts",
+      "name": "meepooh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/66320961?v=4",
+      "profile": "https://github.com/scratchusernamemrtbts",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "DroneBetter",
+      "name": "DroneBetter",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/58664547?v=4",
+      "profile": "https://github.com/DroneBetter",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
