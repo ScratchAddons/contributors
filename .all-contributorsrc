@@ -18,7 +18,8 @@
       "contributions": [
         "projectManagement",
         "maintenance",
-        "ideas"
+        "ideas",
+        "business"
       ]
     },
     {
@@ -39,7 +40,7 @@
       "profile": "https://scratch.mit.edu/users/TonyBrown148/",
       "contributions": [
         "code",
-        "infra"
+        "tool"
       ]
     },
     {
@@ -58,7 +59,8 @@
       "profile": "https://github.com/Explosion-Scratch",
       "contributions": [
         "code",
-        "doc"
+        "doc",
+        "ideas"
       ]
     },
     {
@@ -68,7 +70,8 @@
       "profile": "https://github.com/GrahamSH-LLK",
       "contributions": [
         "code",
-        "ideas"
+        "ideas",
+        "doc"
       ]
     },
     {
@@ -86,7 +89,8 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/6737342?v=4",
       "profile": "https://github.com/griffpatch",
       "contributions": [
-        "code"
+        "code",
+        "business"
       ]
     },
     {
@@ -97,7 +101,8 @@
       "contributions": [
         "code",
         "doc",
-        "ideas"
+        "ideas",
+        "tool"
       ]
     },
     {
@@ -212,6 +217,44 @@
       "profile": "https://github.com/DroneBetter",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "Geotale",
+      "name": "Geotale",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/72356786?v=4",
+      "profile": "https://github.com/Geotale",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "ZenithRogue",
+      "name": "Bill Shoener",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/11393734?v=4",
+      "profile": "https://twitter.com/zenithrogue",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+	{
+      "login": "Purple-Hacker",
+      "name": "Purple-Hacker",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/63299718?v=4",
+      "profile": "https://github.com/Purple-Hacker",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "lucasBent",
+      "name": "Lucas Bent",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/49736712?v=4",
+      "profile": "https://github.com/lucasBent",
+      "contributions": [
+        "code"
       ]
     }
   ],
