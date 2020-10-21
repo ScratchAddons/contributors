@@ -1,5 +1,5 @@
 {
-  "projectName": "ScratchAddons",
+  "projectName": "contributors",
   "projectOwner": "ScratchAddons",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -239,7 +239,7 @@
         "ideas"
       ]
     },
-	{
+    {
       "login": "Purple-Hacker",
       "name": "Purple-Hacker",
       "avatar_url": "https://avatars2.githubusercontent.com/u/63299718?v=4",
@@ -256,7 +256,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "TheColaber",
+      "name": "TheColaber",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/72760579?v=4",
+      "profile": "https://github.com/TheColaber",
+      "contributions": [
+        "code"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
