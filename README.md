@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -42,6 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Purple-Hacker"><img src="https://avatars2.githubusercontent.com/u/63299718?v=4" width="100px;" alt=""/><br /><sub><b>Purple-Hacker</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=Purple-Hacker" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lucasBent"><img src="https://avatars2.githubusercontent.com/u/49736712?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Bent</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=lucasBent" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/TheColaber"><img src="https://avatars3.githubusercontent.com/u/72760579?v=4" width="100px;" alt=""/><br /><sub><b>TheColaber</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=TheColaber" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/pufferfish101007"><img src="https://avatars1.githubusercontent.com/u/50246616?v=4" width="100px;" alt=""/><br /><sub><b>Pufferfish101007</b></sub></a><br /><a href="#ideas-pufferfish101007" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
