@@ -46,7 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/MasimbaTheHuman"><img src="https://avatars3.githubusercontent.com/u/64666021?v=4" width="100px;" alt=""/><br /><sub><b>MasimbaTheHuman</b></sub></a><br /><a href="#ideas-MasimbaTheHuman" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="http://thebugsquash.wixsite.com/samuraininja"><img src="https://avatars0.githubusercontent.com/u/69609060?v=4" width="100px;" alt=""/><br /><sub><b>The Ninja</b></sub></a><br /><a href="#ideas-samuraininja360" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://thebugsquash.wixsite.com/samuraininja"><img src="https://avatars0.githubusercontent.com/u/69609060?v=4" width="100px;" alt=""/><br /><sub><b>The Ninja</b></sub></a><br /><a href="#ideas-samuraininja360" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Asamuraininja360" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
