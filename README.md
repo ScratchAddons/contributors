@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -44,6 +44,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/TheColaber"><img src="https://avatars3.githubusercontent.com/u/72760579?v=4" width="100px;" alt=""/><br /><sub><b>TheColaber</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=TheColaber" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/pufferfish101007"><img src="https://avatars1.githubusercontent.com/u/50246616?v=4" width="100px;" alt=""/><br /><sub><b>Pufferfish101007</b></sub></a><br /><a href="#ideas-pufferfish101007" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/MasimbaTheHuman"><img src="https://avatars3.githubusercontent.com/u/64666021?v=4" width="100px;" alt=""/><br /><sub><b>MasimbaTheHuman</b></sub></a><br /><a href="#ideas-MasimbaTheHuman" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://thebugsquash.wixsite.com/samuraininja"><img src="https://avatars0.githubusercontent.com/u/69609060?v=4" width="100px;" alt=""/><br /><sub><b>The Ninja</b></sub></a><br /><a href="#ideas-samuraininja360" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
