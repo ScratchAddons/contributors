@@ -308,6 +308,15 @@
         "ideas",
         "bug"
       ]
+    },
+    {
+      "login": "Cool-Scratcher",
+      "name": "CoolScratcher",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/65724251?v=4",
+      "profile": "http://kidcreatorsteam.com",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
