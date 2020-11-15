@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -54,6 +54,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   <tr>
     <td align="center"><a href="http://thebugsquash.wixsite.com/samuraininja"><img src="https://avatars0.githubusercontent.com/u/69609060?v=4" width="100px;" alt=""/><br /><sub><b>The Ninja</b></sub></a><br /><a href="#ideas-samuraininja360" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Asamuraininja360" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://scratch.mit.edu/users/lisa_wolfgang"><img src="https://avatars2.githubusercontent.com/u/43426138?v=4" width="100px;" alt=""/><br /><sub><b>lisa-wolfgang</b></sub></a><br /><a href="#ideas-lisa-wolfgang" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Alisa-wolfgang" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://kidcreatorsteam.com"><img src="https://avatars1.githubusercontent.com/u/65724251?v=4" width="100px;" alt=""/><br /><sub><b>CoolScratcher</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ACool-Scratcher" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
