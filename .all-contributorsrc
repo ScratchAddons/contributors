@@ -317,6 +317,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "SparkScrach-P",
+      "name": "SparkScratch_P",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/73777108?v=4",
+      "profile": "https://scratch.mit.edu/users/SparkScratch_P/",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
