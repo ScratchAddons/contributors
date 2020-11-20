@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -56,6 +56,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="http://scratch.mit.edu/users/lisa_wolfgang"><img src="https://avatars2.githubusercontent.com/u/43426138?v=4" width="100px;" alt=""/><br /><sub><b>lisa-wolfgang</b></sub></a><br /><a href="#ideas-lisa-wolfgang" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Alisa-wolfgang" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://kidcreatorsteam.com"><img src="https://avatars1.githubusercontent.com/u/65724251?v=4" width="100px;" alt=""/><br /><sub><b>CoolScratcher</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ACool-Scratcher" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://scratch.mit.edu/users/SparkScratch_P/"><img src="https://avatars2.githubusercontent.com/u/73777108?v=4" width="100px;" alt=""/><br /><sub><b>SparkScratch_P</b></sub></a><br /><a href="#ideas-SparkScrach-P" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ScratchAddons/contributors/commits?author=SparkScrach-P" title="Code">💻</a></td>
+    <td align="center"><a href="http://wgyt.tk"><img src="https://avatars3.githubusercontent.com/u/68466727?v=4" width="100px;" alt=""/><br /><sub><b>William (Wgyt)</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=wgyt735yt" title="Documentation">📖</a></td>
   </tr>
 </table>
 
