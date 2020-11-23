@@ -335,7 +335,8 @@
       "profile": "http://wgyt.tk",
       "contributions": [
         "doc",
-        "bug"
+        "bug",
+        "security"
       ]
     }
   ],
