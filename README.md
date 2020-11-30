@@ -58,6 +58,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://scratch.mit.edu/users/SparkScratch_P/"><img src="https://avatars2.githubusercontent.com/u/73777108?v=4" width="100px;" alt=""/><br /><sub><b>SparkScratch_P</b></sub></a><br /><a href="#ideas-SparkScrach-P" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://wgyt.tk"><img src="https://avatars3.githubusercontent.com/u/68466727?v=4" width="100px;" alt=""/><br /><sub><b>William (Wgyt)</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=wgyt735yt" title="Documentation">📖</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Awgyt735yt" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/Mast3rGenius"><img src="https://avatars2.githubusercontent.com/u/50230324?v=4" width="100px;" alt=""/><br /><sub><b>Mast3rGenius</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=Mast3rGenius" title="Code">💻</a></td>
+        <td align="center"><a href="http://daniel4scratch.wordpress.com"><img src="https://avatars3.githubusercontent.com/u/65277548?v=4" width="100px;" alt=""/><br /><sub><b>Daniel</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=Daniel4-Scratch" title="Code">💻</a></td>
   </tr>
 </table>
 
