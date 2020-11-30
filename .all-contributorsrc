@@ -337,6 +337,15 @@
         "doc",
         "bug"
       ]
+    },
+    {
+      "login": "qucchia",
+      "name": "Qucchia",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/45072410?v=4",
+      "profile": "https://scratch.mit.edu/users/qucchia/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
