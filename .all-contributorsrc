@@ -337,6 +337,15 @@
         "doc",
         "bug"
       ]
+    },
+    {
+      "login": "Mast3rGenius",
+      "name": "Mast3rGenius",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/50230324?v=4",
+      "profile": "https://github.com/Mast3rGenius",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
