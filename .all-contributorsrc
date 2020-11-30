@@ -82,7 +82,8 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/51849865?v=4",
       "profile": "https://scratch.mit.edu/users/Maximouse",
       "contributions": [
-        "code"
+        "code",
+        "example"
       ]
     },
     {
@@ -267,7 +268,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/72760579?v=4",
       "profile": "https://github.com/TheColaber",
       "contributions": [
-        "code"
+        "code",
+        "example"
       ]
     },
     {
@@ -337,6 +339,15 @@
       "contributions": [
         "doc",
         "bug"
+      ]
+    },
+    {
+      "login": "Mast3rGenius",
+      "name": "Mast3rGenius",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/50230324?v=4",
+      "profile": "https://github.com/Mast3rGenius",
+      "contributions": [
+        "code"
       ]
     }
   ],
