@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -57,13 +57,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="http://kidcreatorsteam.com"><img src="https://avatars1.githubusercontent.com/u/65724251?v=4" width="100px;" alt=""/><br /><sub><b>CoolScratcher</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ACool-Scratcher" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://scratch.mit.edu/users/SparkScratch_P/"><img src="https://avatars2.githubusercontent.com/u/73777108?v=4" width="100px;" alt=""/><br /><sub><b>SparkScratch_P</b></sub></a><br /><a href="#ideas-SparkScrach-P" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://wgyt.tk"><img src="https://avatars3.githubusercontent.com/u/68466727?v=4" width="100px;" alt=""/><br /><sub><b>William (Wgyt)</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=wgyt735yt" title="Documentation">📖</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Awgyt735yt" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://scratch.mit.edu/users/qucchia/"><img src="https://avatars3.githubusercontent.com/u/45072410?v=4" width="100px;" alt=""/><br /><sub><b>Qucchia</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=qucchia" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Mast3rGenius"><img src="https://avatars2.githubusercontent.com/u/50230324?v=4" width="100px;" alt=""/><br /><sub><b>Mast3rGenius</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=Mast3rGenius" title="Code">💻</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="http://daniel4scratch.wordpress.com"><img src="https://avatars3.githubusercontent.com/u/65277548?v=4" width="100px;" alt=""/><br /><sub><b>Daniel</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=Daniel4-Scratch" title="Code">💻</a></td>
   </tr>
-
+  <tr>
+    <td align="center"><a href="https://scratch.mit.edu/users/qucchia/"><img src="https://avatars3.githubusercontent.com/u/45072410?v=4" width="100px;" alt=""/><br /><sub><b>Qucchia</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=qucchia" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/PhoenixAndStuf"><img src="https://avatars3.githubusercontent.com/u/75099144?v=4" width="100px;" alt=""/><br /><sub><b>PhoenixAndStuf</b></sub></a><br /><a href="#ideas-PhoenixAndStuf" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
