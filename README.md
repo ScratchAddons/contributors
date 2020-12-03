@@ -63,7 +63,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   <tr>
     <td align="center"><a href="https://scratch.mit.edu/users/qucchia/"><img src="https://avatars3.githubusercontent.com/u/45072410?v=4" width="100px;" alt=""/><br /><sub><b>Qucchia</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=qucchia" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/PhoenixAndStuf"><img src="https://avatars3.githubusercontent.com/u/75099144?v=4" width="100px;" alt=""/><br /><sub><b>PhoenixAndStuf</b></sub></a><br /><a href="#ideas-PhoenixAndStuf" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/Touchcreator"><img src="https://avatars2.githubusercontent.com/u/64277067?v=4" width="100px;" alt=""/><br /><sub><b>Touchcreator</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ATouchcreator" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/Touchcreator"><img src="https://avatars2.githubusercontent.com/u/64277067?v=4" width="100px;" alt=""/><br /><sub><b>Touchcreator</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ATouchcreator" title="Bug reports">🐛</a> <a href="#ideas-Touchcreator" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
