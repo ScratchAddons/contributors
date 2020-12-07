@@ -376,6 +376,16 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "Touchcreator",
+      "name": "Touchcreator",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/64277067?v=4",
+      "profile": "https://github.com/Touchcreator",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
