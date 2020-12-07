@@ -9,7 +9,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 *Have contributed in any way? Read how to put your name [here](https://github.com/ScratchAddons/contributors/issue/12).*
 
-*View the website version [here](https://scratchaddons.com/contributors/).*
+*View the website version [here](https://scratchaddons.com/contributors).*
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
