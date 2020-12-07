@@ -386,6 +386,15 @@
         "bug",
         "ideas"
       ]
+    },
+    {
+      "login": "Secret",
+      "name": "Madara",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47544520?v=4",
+      "profile": "https://github.com/secret",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
