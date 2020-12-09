@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -65,6 +65,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/PhoenixAndStuf"><img src="https://avatars3.githubusercontent.com/u/75099144?v=4" width="100px;" alt=""/><br /><sub><b>PhoenixAndStuf</b></sub></a><br /><a href="#ideas-PhoenixAndStuf" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/Touchcreator"><img src="https://avatars2.githubusercontent.com/u/64277067?v=4" width="100px;" alt=""/><br /><sub><b>Touchcreator</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ATouchcreator" title="Bug reports">🐛</a> <a href="#ideas-Touchcreator" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/areeq0325"><img src="https://avatars0.githubusercontent.com/u/69761212?v=4" width="100px;" alt=""/><br /><sub><b>areeq0325</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aareeq0325" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/Marc92020"><img src="https://avatars2.githubusercontent.com/u/75702334?v=4" width="100px;" alt=""/><br /><sub><b>Marc92020</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3AMarc92020" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
