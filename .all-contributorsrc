@@ -405,6 +405,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "RustingRobot",
+      "name": "RustingRobot",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/50629201?v=4",
+      "profile": "https://github.com/RustingRobot",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
