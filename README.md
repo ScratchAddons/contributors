@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -67,6 +67,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/areeq0325"><img src="https://avatars0.githubusercontent.com/u/69761212?v=4" width="100px;" alt=""/><br /><sub><b>areeq0325</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aareeq0325" title="Bug reports">🐛</a> <a href="#ideas-areeq0325" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/Marc92020"><img src="https://avatars2.githubusercontent.com/u/75702334?v=4" width="100px;" alt=""/><br /><sub><b>Marc92020</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3AMarc92020" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/RustingRobot"><img src="https://avatars3.githubusercontent.com/u/50629201?v=4" width="100px;" alt=""/><br /><sub><b>RustingRobot</b></sub></a><br /><a href="#translation-RustingRobot" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://ahmetlii.github.io"><img src="https://avatars3.githubusercontent.com/u/63475369?v=4" width="100px;" alt=""/><br /><sub><b>Ahmet</b></sub></a><br /><a href="#translation-ahmetlii" title="Translation">🌍</a></td>
   </tr>
 </table>
 
