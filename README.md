@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -71,6 +71,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   </tr>
   <tr>
     <td align="center"><a href="https://locness.duckdns.org"><img src="https://avatars1.githubusercontent.com/u/37651007?v=4" width="100px;" alt=""/><br /><sub><b>Locness</b></sub></a><br /><a href="#translation-locness3" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/superscratch444tre"><img src="https://avatars1.githubusercontent.com/u/69812464?v=4" width="100px;" alt=""/><br /><sub><b>superscratch444tre</b></sub></a><br /><a href="#translation-superscratch444tre" title="Translation">🌍</a></td>
   </tr>
 </table>
 
