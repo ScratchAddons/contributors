@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -68,6 +68,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/Marc92020"><img src="https://avatars2.githubusercontent.com/u/75702334?v=4" width="100px;" alt=""/><br /><sub><b>Marc92020</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3AMarc92020" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/RustingRobot"><img src="https://avatars3.githubusercontent.com/u/50629201?v=4" width="100px;" alt=""/><br /><sub><b>RustingRobot</b></sub></a><br /><a href="#translation-RustingRobot" title="Translation">🌍</a></td>
     <td align="center"><a href="http://ahmetlii.github.io"><img src="https://avatars3.githubusercontent.com/u/63475369?v=4" width="100px;" alt=""/><br /><sub><b>Ahmet</b></sub></a><br /><a href="#translation-ahmetlii" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://locness.duckdns.org"><img src="https://avatars1.githubusercontent.com/u/37651007?v=4" width="100px;" alt=""/><br /><sub><b>Locness</b></sub></a><br /><a href="#translation-locness3" title="Translation">🌍</a></td>
   </tr>
 </table>
 
