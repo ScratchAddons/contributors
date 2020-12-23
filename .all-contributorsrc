@@ -444,6 +444,16 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "leahcimto",
+      "name": "leahcimto",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/68165163?v=4",
+      "profile": "https://leahcimto.github.io",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
