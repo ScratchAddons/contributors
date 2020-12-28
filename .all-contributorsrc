@@ -454,6 +454,15 @@
         "bug",
         "ideas"
       ]
+    },
+    {
+      "login": "robloaks",
+      "name": "robloaks",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/61124367?v=4",
+      "profile": "https://github.com/robloaks",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
