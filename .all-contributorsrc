@@ -454,6 +454,15 @@
         "bug",
         "ideas"
       ]
+    },
+    {
+      "login": "Thomas282-coder",
+      "name": "Thomas282",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/75969759?v=4",
+      "profile": "https://scratch.mit.edu/users/Thomas282/",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
