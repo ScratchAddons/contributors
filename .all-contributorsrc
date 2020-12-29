@@ -463,6 +463,16 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "anoymousgamerhacker",
+      "name": "anoymousgamerhacker",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/71985679?v=4",
+      "profile": "https://github.com/anoymousgamerhacker",
+      "contributions": [
+        "bug",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
