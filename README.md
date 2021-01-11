@@ -80,6 +80,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/anoymousgamerhacker"><img src="https://avatars2.githubusercontent.com/u/71985679?v=4" width="100px;" alt=""/><br /><sub><b>anoymousgamerhacker</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aanoymousgamerhacker" title="Bug reports">🐛</a> <a href="#translation-anoymousgamerhacker" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://paul-s-reid.com/web-dev"><img src="https://avatars0.githubusercontent.com/u/61329810?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RedGuy12</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=RedGuy12" title="Code">💻</a> <a href="#ideas-RedGuy12" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
