@@ -75,6 +75,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://leahcimto.github.io"><img src="https://avatars0.githubusercontent.com/u/68165163?v=4?s=100" width="100px;" alt=""/><br /><sub><b>leahcimto</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aleahcimto" title="Bug reports">🐛</a> <a href="#ideas-leahcimto" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://scratch.mit.edu/users/Thomas282/"><img src="https://avatars2.githubusercontent.com/u/75969759?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thomas282</b></sub></a><br /><a href="#translation-Thomas282-coder" title="Translation">🌍</a></td>
     <td align="center"><a href="https://x.ggigabyte.repl.co"><img src="https://avatars2.githubusercontent.com/u/50552317?v=4?s=100" width="100px;" alt=""/><br /><sub><b>IQNite</b></sub></a><br /><a href="#translation-iqnite" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/gohoski"><img src="https://avatars3.githubusercontent.com/u/72347897?v=4" width="100px;" alt=""/><br /><sub><b>Глеб (Gleb)</b></sub></a><br /><a href="#translation-gohoski" title="Translation">🌍</a></td>
   </tr>
 </table>
 
