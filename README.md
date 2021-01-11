@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -74,6 +74,15 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/superscratch444tre"><img src="https://avatars1.githubusercontent.com/u/69812464?v=4?s=100" width="100px;" alt=""/><br /><sub><b>superscratch444tre</b></sub></a><br /><a href="#translation-superscratch444tre" title="Translation">🌍</a></td>
     <td align="center"><a href="https://leahcimto.github.io"><img src="https://avatars0.githubusercontent.com/u/68165163?v=4?s=100" width="100px;" alt=""/><br /><sub><b>leahcimto</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aleahcimto" title="Bug reports">🐛</a> <a href="#ideas-leahcimto" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://scratch.mit.edu/users/Thomas282/"><img src="https://avatars2.githubusercontent.com/u/75969759?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thomas282</b></sub></a><br /><a href="#translation-Thomas282-coder" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://x.ggigabyte.repl.co"><img src="https://avatars2.githubusercontent.com/u/50552317?v=4?s=100" width="100px;" alt=""/><br /><sub><b>IQNite</b></sub></a><br /><a href="#translation-iqnite" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/gohoski"><img src="https://avatars3.githubusercontent.com/u/72347897?v=4" width="100px;" alt=""/><br /><sub><b>Глеб (Gleb)</b></sub></a><br /><a href="#translation-gohoski" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/doruksarp"><img src="https://avatars3.githubusercontent.com/u/51460403?v=4" width="100px;" alt=""/><br /><sub><b>doruksarp</b></sub></a><br /><a href="#translation-doruksarp" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/anoymousgamerhacker"><img src="https://avatars2.githubusercontent.com/u/71985679?v=4" width="100px;" alt=""/><br /><sub><b>anoymousgamerhacker</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aanoymousgamerhacker" title="Bug reports">🐛</a> <a href="#translation-anoymousgamerhacker" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://paul-s-reid.com/web-dev"><img src="https://avatars0.githubusercontent.com/u/61329810?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RedGuy12</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=RedGuy12" title="Code">💻</a> <a href="#ideas-RedGuy12" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://www.gugalcrom.net"><img src="https://avatars1.githubusercontent.com/u/74449186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Secret-chest</b></sub></a><br /><a href="#ideas-Secret-chest" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-Secret-chest" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/CuriousG2"><img src="https://avatars0.githubusercontent.com/u/76401850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Curiousg2</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ACuriousg2" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/oof-le-oof"><img src="https://avatars2.githubusercontent.com/u/74682558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>oof_le_oof</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aoof-le-oof" title="Bug reports">🐛</a> <a href="#ideas-oof-le-oof" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
