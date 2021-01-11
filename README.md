@@ -78,6 +78,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/gohoski"><img src="https://avatars3.githubusercontent.com/u/72347897?v=4" width="100px;" alt=""/><br /><sub><b>Глеб (Gleb)</b></sub></a><br /><a href="#translation-gohoski" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/doruksarp"><img src="https://avatars3.githubusercontent.com/u/51460403?v=4" width="100px;" alt=""/><br /><sub><b>doruksarp</b></sub></a><br /><a href="#translation-doruksarp" title="Translation">🌍</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/anoymousgamerhacker"><img src="https://avatars2.githubusercontent.com/u/71985679?v=4" width="100px;" alt=""/><br /><sub><b>anoymousgamerhacker</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aanoymousgamerhacker" title="Bug reports">🐛</a> <a href="#translation-anoymousgamerhacker" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
