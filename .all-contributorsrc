@@ -529,6 +529,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "oof-le-oof",
+      "name": "oof_le_oof",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/74682558?v=4",
+      "profile": "https://github.com/oof-le-oof",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
