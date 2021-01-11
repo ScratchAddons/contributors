@@ -509,6 +509,17 @@
       "contributions": [
         "code",
         "ideas"
+      ]
+    },
+    {
+      "login": "Secret-chest",
+      "name": "Secret-chest",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/74449186?v=4",
+      "profile": "http://www.gugalcrom.net",
+      "contributions": [
+        "ideas",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,

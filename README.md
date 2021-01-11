@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -81,6 +81,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   <tr>
     <td align="center"><a href="https://github.com/anoymousgamerhacker"><img src="https://avatars2.githubusercontent.com/u/71985679?v=4" width="100px;" alt=""/><br /><sub><b>anoymousgamerhacker</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aanoymousgamerhacker" title="Bug reports">🐛</a> <a href="#translation-anoymousgamerhacker" title="Translation">🌍</a></td>
     <td align="center"><a href="https://paul-s-reid.com/web-dev"><img src="https://avatars0.githubusercontent.com/u/61329810?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RedGuy12</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=RedGuy12" title="Code">💻</a> <a href="#ideas-RedGuy12" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://www.gugalcrom.net"><img src="https://avatars1.githubusercontent.com/u/74449186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Secret-chest</b></sub></a><br /><a href="#ideas-Secret-chest" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-Secret-chest" title="Translation">🌍</a></td>
   </tr>
 </table>
 
