@@ -19,7 +19,8 @@
         "projectManagement",
         "maintenance",
         "ideas",
-        "business"
+        "business",
+        "translation"
       ]
     },
     {
@@ -30,7 +31,8 @@
       "contributions": [
         "maintenance",
         "security",
-        "bug"
+        "bug",
+        "translation"
       ]
     },
     {
@@ -319,7 +321,8 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/65724251?v=4",
       "profile": "http://kidcreatorsteam.com",
       "contributions": [
-        "bug"
+        "bug",
+        "ideas"
       ]
     },
     {
@@ -384,6 +387,127 @@
       "profile": "https://github.com/Touchcreator",
       "contributions": [
         "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "areeq0325",
+      "name": "areeq0325",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/69761212?v=4",
+      "profile": "https://github.com/areeq0325",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Marc92020",
+      "name": "Marc92020",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/75702334?v=4",
+      "profile": "https://github.com/Marc92020",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "RustingRobot",
+      "name": "RustingRobot",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/50629201?v=4",
+      "profile": "https://github.com/RustingRobot",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "ahmetlii",
+      "name": "Ahmet",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/63475369?v=4",
+      "profile": "http://ahmetlii.github.io",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "locness3",
+      "name": "Locness",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37651007?v=4",
+      "profile": "https://locness.duckdns.org",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "superscratch444tre",
+      "name": "superscratch444tre",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/69812464?v=4",
+      "profile": "https://github.com/superscratch444tre",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "leahcimto",
+      "name": "leahcimto",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/68165163?v=4",
+      "profile": "https://leahcimto.github.io",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Thomas282-coder",
+      "name": "Thomas282",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/75969759?v=4",
+      "profile": "https://scratch.mit.edu/users/Thomas282/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "iqnite",
+      "name": "IQNite",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/50552317?v=4",
+      "profile": "https://x.ggigabyte.repl.co",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "gohoski",
+      "name": "Глеб (Gleb)",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/72347897?v=4",
+      "profile": "https://github.com/gohoski",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "doruksarp",
+      "name": "doruksarp",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/51460403?v=4",
+      "profile": "https://github.com/doruksarp",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "anoymousgamerhacker",
+      "name": "anoymousgamerhacker",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/71985679?v=4",
+      "profile": "https://github.com/anoymousgamerhacker",
+      "contributions": [
+        "bug",
+        "translation"
+      ]
+    },
+    {
+      "login": "RedGuy12",
+      "name": "RedGuy12",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/61329810?v=4",
+      "profile": "https://paul-s-reid.com/web-dev",
+      "contributions": [
+        "code",
         "ideas"
       ]
     },
