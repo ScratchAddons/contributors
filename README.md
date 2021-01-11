@@ -76,6 +76,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://scratch.mit.edu/users/Thomas282/"><img src="https://avatars2.githubusercontent.com/u/75969759?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thomas282</b></sub></a><br /><a href="#translation-Thomas282-coder" title="Translation">🌍</a></td>
     <td align="center"><a href="https://x.ggigabyte.repl.co"><img src="https://avatars2.githubusercontent.com/u/50552317?v=4?s=100" width="100px;" alt=""/><br /><sub><b>IQNite</b></sub></a><br /><a href="#translation-iqnite" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/gohoski"><img src="https://avatars3.githubusercontent.com/u/72347897?v=4" width="100px;" alt=""/><br /><sub><b>Глеб (Gleb)</b></sub></a><br /><a href="#translation-gohoski" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/doruksarp"><img src="https://avatars3.githubusercontent.com/u/51460403?v=4" width="100px;" alt=""/><br /><sub><b>doruksarp</b></sub></a><br /><a href="#translation-doruksarp" title="Translation">🌍</a></td>
   </tr>
 </table>
 
