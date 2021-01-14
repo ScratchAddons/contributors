@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-57-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -86,6 +86,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/oof-le-oof"><img src="https://avatars2.githubusercontent.com/u/74682558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>oof_le_oof</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aoof-le-oof" title="Bug reports">🐛</a> <a href="#ideas-oof-le-oof" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://scratch.mit.edu/users/maDU59_/"><img src="https://avatars0.githubusercontent.com/u/76407125?v=4?s=100" width="100px;" alt=""/><br /><sub><b>maDU59_</b></sub></a><br /><a href="#ideas-maDU59" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-maDU59" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/robloaks"><img src="https://avatars2.githubusercontent.com/u/61124367?v=4?s=100" width="100px;" alt=""/><br /><sub><b>robloaks</b></sub></a><br /><a href="#translation-robloaks" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Wilamaxin"><img src="https://avatars2.githubusercontent.com/u/63302372?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wilamaxin</b></sub></a><br /><a href="#translation-wilamaxin" title="Translation">🌍</a></td>
   </tr>
 </table>
 
