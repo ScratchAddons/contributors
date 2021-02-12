@@ -577,6 +577,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Riptide-Scratch",
+      "name": "----Riptide----",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70417080?v=4",
+      "profile": "https://github.com/Riptide-Scratch",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
