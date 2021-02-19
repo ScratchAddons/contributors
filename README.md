@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-65-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-66-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -99,6 +99,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   <tr>
     <td align="center"><a href="https://github.com/zafersafa007"><img src="https://avatars.githubusercontent.com/u/71785037?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zafersafa007</b></sub></a><br /><a href="#translation-zafersafa007" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Rendangbike"><img src="https://avatars.githubusercontent.com/u/76770572?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RB</b></sub></a><br /><a href="#translation-Rendangbike" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Jamnik-Klembus"><img src="https://avatars.githubusercontent.com/u/76878372?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jamnik-Klembus</b></sub></a><br /><a href="#translation-Jamnik-Klembus" title="Translation">🌍</a></td>
   </tr>
 </table>
 
