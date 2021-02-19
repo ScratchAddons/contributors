@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-69-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-70-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -103,6 +103,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/GGORG0"><img src="https://avatars.githubusercontent.com/u/51029895?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GGORG</b></sub></a><br /><a href="#translation-GGORG0" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/rens2"><img src="https://avatars.githubusercontent.com/u/67419424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rens2</b></sub></a><br /><a href="#translation-rens2" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/m0nss"><img src="https://avatars.githubusercontent.com/u/63720689?v=4?s=100" width="100px;" alt=""/><br /><sub><b>m0nss</b></sub></a><br /><a href="#translation-m0nss" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/VFDan"><img src="https://avatars.githubusercontent.com/u/44413950?v=4?s=100" width="100px;" alt=""/><br /><sub><b>VFDan</b></sub></a><br /><a href="#translation-VFDan" title="Translation">🌍</a></td>
   </tr>
 </table>
 
