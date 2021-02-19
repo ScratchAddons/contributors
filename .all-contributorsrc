@@ -615,6 +615,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "sfederici",
+      "name": "sfederici",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2651868?v=4",
+      "profile": "https://github.com/sfederici",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
