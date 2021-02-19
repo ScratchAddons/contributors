@@ -661,6 +661,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "rens2",
+      "name": "rens2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67419424?v=4",
+      "profile": "https://github.com/rens2",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
