@@ -652,6 +652,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "GGORG0",
+      "name": "GGORG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51029895?v=4",
+      "profile": "https://github.com/GGORG0",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
