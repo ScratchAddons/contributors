@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-72-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -108,6 +108,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   <tr>
     <td align="center"><a href="https://github.com/Remixsuper-on-scratch"><img src="https://avatars.githubusercontent.com/u/74250922?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Remixsuper-on-scratch</b></sub></a><br /><a href="#translation-Remixsuper-on-scratch" title="Translation">🌍</a></td>
     <td align="center"><a href="https://scratch.mit.edu/users/Arqwa/"><img src="https://avatars.githubusercontent.com/u/75946817?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arqwa</b></sub></a><br /><a href="#translation-Arqwa" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://scratch.mit.edu/users/ignacyiwokarnecki"><img src="https://avatars.githubusercontent.com/u/78898180?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GignacKasztanski</b></sub></a><br /><a href="#translation-GignacKasztanski" title="Translation">🌍</a></td>
   </tr>
 </table>
 
