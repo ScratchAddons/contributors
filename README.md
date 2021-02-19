@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-63-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -95,6 +95,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/thegAmechanger80"><img src="https://avatars.githubusercontent.com/u/75179701?v=4?s=100" width="100px;" alt=""/><br /><sub><b>thegAmechanger80</b></sub></a><br /><a href="#translation-thegAmechanger80" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Minemaster552"><img src="https://avatars.githubusercontent.com/u/52428014?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Minemaster552</b></sub></a><br /><a href="#translation-Minemaster552" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/sfederici"><img src="https://avatars.githubusercontent.com/u/2651868?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sfederici</b></sub></a><br /><a href="#translation-sfederici" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/zafersafa007"><img src="https://avatars.githubusercontent.com/u/71785037?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zafersafa007</b></sub></a><br /><a href="#translation-zafersafa007" title="Translation">🌍</a></td>
   </tr>
 </table>
 
