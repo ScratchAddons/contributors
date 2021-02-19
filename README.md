@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-60-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -91,6 +91,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/Wilamaxin"><img src="https://avatars2.githubusercontent.com/u/63302372?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wilamaxin</b></sub></a><br /><a href="#translation-wilamaxin" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/CyberNat2000"><img src="https://avatars.githubusercontent.com/u/77163754?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CyberNat2000</b></sub></a><br /><a href="#translation-CyberNat2000" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Riptide-Scratch"><img src="https://avatars.githubusercontent.com/u/70417080?v=4?s=100" width="100px;" alt=""/><br /><sub><b>----Riptide----</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ARiptide-Scratch" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://ezlambry.com"><img src="https://avatars.githubusercontent.com/u/38388911?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ezlambry</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=Ezlambry" title="Code">💻</a></td>
   </tr>
 </table>
 
