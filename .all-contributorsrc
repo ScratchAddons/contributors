@@ -634,6 +634,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Rendangbike",
+      "name": "RB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76770572?v=4",
+      "profile": "https://github.com/Rendangbike",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
