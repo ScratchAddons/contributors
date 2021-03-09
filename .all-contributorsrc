@@ -726,6 +726,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "FunctionalMetatable",
+      "name": "FunctionalMetatable",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67440879?v=4",
+      "profile": "https://github.com/FunctionalMetatable",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
