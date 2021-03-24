@@ -736,6 +736,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "SetuCoder",
+      "name": "SetuCoder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58362876?v=4",
+      "profile": "http://setusree.carrd.co",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
