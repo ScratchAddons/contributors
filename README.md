@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-75-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-76-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -111,6 +111,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://scratch.mit.edu/users/ignacyiwokarnecki"><img src="https://avatars.githubusercontent.com/u/78898180?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GignacKasztanski</b></sub></a><br /><a href="#translation-GignacKasztanski" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/hatrexpro"><img src="https://avatars.githubusercontent.com/u/79562332?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hatrexpro</b></sub></a><br /><a href="#translation-hatrexpro" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/FunctionalMetatable"><img src="https://avatars.githubusercontent.com/u/67440879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>FunctionalMetatable</b></sub></a><br /><a href="#ideas-FunctionalMetatable" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://setusree.carrd.co"><img src="https://avatars.githubusercontent.com/u/58362876?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SetuCoder</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=SetuCoder" title="Code">💻</a></td>
   </tr>
 </table>
 
