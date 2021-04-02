@@ -114,6 +114,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://sites.google.com/view/barthdry/home"><img src="https://avatars.githubusercontent.com/u/67647112?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Barthdry</b></sub></a><br /><a href="#translation-Barthdry" title="Translation">🌍</a> <a href="#ideas-Barthdry" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ABarthdry" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://anantjit.whjr.site"><img src="https://avatars.githubusercontent.com/u/74092334?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anantjit</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3AGenius398" title="Bug reports">🐛</a> <a href="https://github.com/ScratchAddons/contributors/commits?author=Genius398" title="Code">💻</a> <a href="#ideas-Genius398" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="http://setusree.carrd.co"><img src="https://avatars.githubusercontent.com/u/58362876?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SetuCoder</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=SetuCoder" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
