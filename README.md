@@ -111,7 +111,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://scratch.mit.edu/users/ignacyiwokarnecki"><img src="https://avatars.githubusercontent.com/u/78898180?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GignacKasztanski</b></sub></a><br /><a href="#translation-GignacKasztanski" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/hatrexpro"><img src="https://avatars.githubusercontent.com/u/79562332?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hatrexpro</b></sub></a><br /><a href="#translation-hatrexpro" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/FunctionalMetatable"><img src="https://avatars.githubusercontent.com/u/67440879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>FunctionalMetatable</b></sub></a><br /><a href="#ideas-FunctionalMetatable" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/lightningmc09"><img src="https://avatars.githubusercontent.com/u/81425039?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lightningmc09</b></sub></a><br /><a href="#ideas-lightningmc09" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/lightningmc09"><img src="https://avatars.githubusercontent.com/u/81425039?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lightningmc09</b></sub></a><br /><a href="#ideas-lightningmc09" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ScratchAddons/contributors/commits?author=lightningmc09" title="Code">💻</a></td>
   </tr>
 </table>
 
