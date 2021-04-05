@@ -778,6 +778,15 @@
         "bug",
         "ideas"
       ]
+    },
+    {
+      "login": "Fanjoua",
+      "name": "Fanjoua",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50961426?v=4",
+      "profile": "https://github.com/Fanjoua",
+      "contributions": [
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7,
