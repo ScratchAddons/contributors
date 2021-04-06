@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-79-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-80-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -117,6 +117,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   <tr>
     <td align="center"><a href="http://setusree.carrd.co"><img src="https://avatars.githubusercontent.com/u/58362876?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SetuCoder</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=SetuCoder" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lightningmc09"><img src="https://avatars.githubusercontent.com/u/81425039?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lightningmc09</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Alightningmc09" title="Bug reports">🐛</a> <a href="#ideas-lightningmc09" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/secret-"><img src="https://avatars.githubusercontent.com/u/1871674?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Secret-</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=Secret-" title="Code">💻</a> <a href="#translation-Secret-" title="Translation">🌍</a> <a href="#ideas-Secret-" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
