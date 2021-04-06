@@ -779,6 +779,17 @@
         "bug",
         "ideas"
       ]
+    },
+    {
+      "login": "Secret-",
+      "name": "Secret-",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1871674?v=4",
+      "profile": "https://github.com/secret-",
+      "contributions": [
+        "code",
+        "translation",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
