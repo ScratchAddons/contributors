@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-80-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-81-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -118,6 +118,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="http://setusree.carrd.co"><img src="https://avatars.githubusercontent.com/u/58362876?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SetuCoder</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=SetuCoder" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lightningmc09"><img src="https://avatars.githubusercontent.com/u/81425039?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lightningmc09</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Alightningmc09" title="Bug reports">🐛</a> <a href="#ideas-lightningmc09" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/22yeetz22"><img src="https://avatars.githubusercontent.com/u/74276537?v=4?s=100" width="100px;" alt=""/><br /><sub><b>22yeetz22</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3A22yeetz22" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/Tacodude7729"><img src="https://avatars.githubusercontent.com/u/27910867?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tacodude7729</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=Tacodude7729" title="Code">💻</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ATacodude7729" title="Bug reports">🐛</a> <a href="#ideas-Tacodude7729" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
