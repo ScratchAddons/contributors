@@ -817,6 +817,16 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Sly-Little-Fox",
+      "name": "Sly-Little-Fox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69681150?v=4",
+      "profile": "https://server-backuper.cloud",
+      "contributions": [
+        "code",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
