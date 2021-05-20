@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-84-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-85-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -122,6 +122,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/Tofix26"><img src="https://avatars.githubusercontent.com/u/73693639?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tofix26</b></sub></a><br /><a href="#translation-Tofix26" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/iltersinavv"><img src="https://avatars.githubusercontent.com/u/80217178?v=4?s=100" width="100px;" alt=""/><br /><sub><b>İlter &#124; iltersinavv Hosting / isn &#124; hogra</b></sub></a><br /><a href="#translation-iltersinavv" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/hello34090"><img src="https://avatars.githubusercontent.com/u/83602831?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hello34090</b></sub></a><br /><a href="#translation-hello34090" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/piw-piw"><img src="https://avatars.githubusercontent.com/u/76477070?v=4?s=100" width="100px;" alt=""/><br /><sub><b>piw-piw</b></sub></a><br /><a href="#translation-piw-piw" title="Translation">🌍</a> <a href="#ideas-piw-piw" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
