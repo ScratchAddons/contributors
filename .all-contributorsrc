@@ -858,6 +858,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "SheepTester",
+      "name": "Sean",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22133785?v=4",
+      "profile": "https://sheeptester.github.io/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
