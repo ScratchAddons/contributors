@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-89-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-90-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -129,6 +129,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/DevCascade"><img src="https://avatars.githubusercontent.com/u/80895875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>DevCascade</b></sub></a><br /><a href="#translation-DevCascade" title="Translation">🌍</a></td>
     <td align="center"><a href="https://sheeptester.github.io/"><img src="https://avatars.githubusercontent.com/u/22133785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sean</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=SheepTester" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ErrorGamer2000"><img src="https://avatars.githubusercontent.com/u/70162741?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ErrorGamer2000</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=ErrorGamer2000" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/CST1229"><img src="https://avatars.githubusercontent.com/u/68464103?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CST1229</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=CST1229" title="Code">💻</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ACST1229" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
