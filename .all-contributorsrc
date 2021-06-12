@@ -876,6 +876,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "CST1229",
+      "name": "CST1229",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68464103?v=4",
+      "profile": "https://github.com/CST1229",
+      "contributions": [
+        "code",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
