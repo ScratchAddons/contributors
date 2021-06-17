@@ -886,6 +886,17 @@
         "code",
         "bug"
       ]
+    },
+    {
+      "login": "GitHub027",
+      "name": "GitHub027",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85628289?v=4",
+      "profile": "https://github.com/GitHub027",
+      "contributions": [
+        "code",
+        "translation",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
