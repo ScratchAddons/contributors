@@ -895,7 +895,9 @@
       "contributions": [
         "code",
         "translation",
-        "doc"
+        "doc",
+        "ideas",
+        "bug"
       ]
     }
   ],
