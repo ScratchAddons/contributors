@@ -886,6 +886,15 @@
         "code",
         "bug"
       ]
+    },
+    {
+      "login": "carlospage",
+      "name": "Chen PAGE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55618342?v=4",
+      "profile": "https://chen.page.live/",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
