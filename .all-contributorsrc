@@ -895,6 +895,16 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "RedLight-Scratch",
+      "name": "RedLight-Scratch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76401850?v=4",
+      "profile": "https://github.com/RedLight-Scratch",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
