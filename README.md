@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-91-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-92-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -131,6 +131,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/ErrorGamer2000"><img src="https://avatars.githubusercontent.com/u/70162741?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ErrorGamer2000</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=ErrorGamer2000" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/CST1229"><img src="https://avatars.githubusercontent.com/u/68464103?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CST1229</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=CST1229" title="Code">💻</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ACST1229" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/ShermanYeung"><img src="https://avatars.githubusercontent.com/u/69072386?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GravityV</b></sub></a><br /><a href="#translation-ShermanYeung" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/TheBugCoder"><img src="https://avatars.githubusercontent.com/u/67200019?v=4?s=100" width="100px;" alt=""/><br /><sub><b>buggy</b></sub></a><br /><a href="#translation-TheBugCoder" title="Translation">🌍</a></td>
   </tr>
 </table>
 
