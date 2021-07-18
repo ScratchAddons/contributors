@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-92-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-93-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -134,6 +134,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/TheBugCoder"><img src="https://avatars.githubusercontent.com/u/67200019?v=4?s=100" width="100px;" alt=""/><br /><sub><b>buggy</b></sub></a><br /><a href="#translation-TheBugCoder" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Lisa-"><img src="https://avatars.githubusercontent.com/u/5380736?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lisa-</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=lisa-" title="Code">💻</a></td>
   </tr>
 </table>
 
