@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-92-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-93-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -110,7 +110,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://scratch.mit.edu/users/Arqwa/"><img src="https://avatars.githubusercontent.com/u/75946817?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arqwa</b></sub></a><br /><a href="#translation-Arqwa" title="Translation">🌍</a></td>
     <td align="center"><a href="https://scratch.mit.edu/users/ignacyiwokarnecki"><img src="https://avatars.githubusercontent.com/u/78898180?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GignacKasztanski</b></sub></a><br /><a href="#translation-GignacKasztanski" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/hatrexpro"><img src="https://avatars.githubusercontent.com/u/79562332?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hatrexpro</b></sub></a><br /><a href="#translation-hatrexpro" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://scratch.mit.edu/users/9gr/"><img src="https://avatars.githubusercontent.com/u/67440879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>FunctionalMetatable</b></sub></a><br /><a href="#ideas-FunctionalMetatable" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ScratchAddons/contributors/commits?author=FunctionalMetatable" title="Code">💻</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3AFunctionalMetatable" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://scratch.mit.edu/users/9gr"><img src="https://avatars.githubusercontent.com/u/67440879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>FunctionalMetatable</b></sub></a><br /><a href="#ideas-FunctionalMetatable" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ScratchAddons/contributors/commits?author=FunctionalMetatable" title="Code">💻</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3AFunctionalMetatable" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://sites.google.com/view/barthdry/home"><img src="https://avatars.githubusercontent.com/u/67647112?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Barthdry</b></sub></a><br /><a href="#translation-Barthdry" title="Translation">🌍</a></td>
     <td align="center"><a href="http://anantjit.whjr.site"><img src="https://avatars.githubusercontent.com/u/74092334?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anantjit</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3AGenius398" title="Bug reports">🐛</a> <a href="https://github.com/ScratchAddons/contributors/commits?author=Genius398" title="Code">💻</a> <a href="#ideas-Genius398" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
@@ -134,6 +134,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/TheBugCoder"><img src="https://avatars.githubusercontent.com/u/67200019?v=4?s=100" width="100px;" alt=""/><br /><sub><b>buggy</b></sub></a><br /><a href="#translation-TheBugCoder" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Someone"><img src="https://avatars.githubusercontent.com/u/28441?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Someone!</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=Someone" title="Code">💻</a> <a href="https://github.com/ScratchAddons/contributors/commits?author=Someone" title="Documentation">📖</a> <a href="#infra-Someone" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
