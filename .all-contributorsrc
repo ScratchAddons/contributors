@@ -906,6 +906,17 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Someone",
+      "name": "Someone!",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28441?v=4",
+      "profile": "https://github.com/Someone",
+      "contributions": [
+        "code",
+        "doc",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
