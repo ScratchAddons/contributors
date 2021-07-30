@@ -134,7 +134,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/TheBugCoder"><img src="https://avatars.githubusercontent.com/u/67200019?v=4?s=100" width="100px;" alt=""/><br /><sub><b>buggy</b></sub></a><br /><a href="#translation-TheBugCoder" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://samq64.github.io"><img src="https://avatars.githubusercontent.com/u/81489795?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Samq64</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ASamq64" title="Bug reports">🐛</a> <a href="https://github.com/ScratchAddons/contributors/commits?author=Samq64" title="Code">💻</a></td>
+    <td align="center"><a href="http://samq64.github.io"><img src="https://avatars.githubusercontent.com/u/81489795?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Samq64</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ASamq64" title="Bug reports">🐛</a> <a href="https://github.com/ScratchAddons/contributors/commits?author=Samq64" title="Code">💻</a> <a href="#ideas-Samq64" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
