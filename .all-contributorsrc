@@ -927,6 +927,15 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "Medericoder",
+      "name": "Medericoder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80577386?v=4",
+      "profile": "https://scratch.mit.edu/users/Medericoder/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
