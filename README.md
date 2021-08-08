@@ -1,6 +1,6 @@
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-95-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-96-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -137,6 +137,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="http://samq64.github.io"><img src="https://avatars.githubusercontent.com/u/81489795?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Samq64</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ASamq64" title="Bug reports">🐛</a> <a href="https://github.com/ScratchAddons/contributors/commits?author=Samq64" title="Code">💻</a> <a href="#ideas-Samq64" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://lankybox01.glitch.me"><img src="https://avatars.githubusercontent.com/u/79767244?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LankyBox01</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=CodeGuy92" title="Code">💻</a> <a href="#ideas-CodeGuy92" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://scratch.mit.edu/users/Medericoder/"><img src="https://avatars.githubusercontent.com/u/80577386?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Medericoder</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3AMedericoder" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/Nik0lyaZ"><img src="https://avatars.githubusercontent.com/u/77118530?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nikolyas</b></sub></a><br /><a href="#translation-Nik0lyaZ" title="Translation">🌍</a></td>
   </tr>
 </table>
 
