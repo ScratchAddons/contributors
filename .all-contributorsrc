@@ -936,6 +936,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "LegoManiac04",
+      "name": "Leo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87787046?v=4",
+      "profile": "https://legomaniac04.github.io/",
+      "contributions": [
+        "ideas",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
