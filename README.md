@@ -134,7 +134,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/TheBugCoder"><img src="https://avatars.githubusercontent.com/u/67200019?v=4?s=100" width="100px;" alt=""/><br /><sub><b>buggy</b></sub></a><br /><a href="#translation-TheBugCoder" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://CONTACT ME THROUGH SCRATCH : https://scratch.mit.edu/users/ASTRONAUT_521/"><img src="https://avatars.githubusercontent.com/u/82920449?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sreehari521</b></sub></a><br /><a href="#ideas-Sreehari521" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://CONTACT ME THROUGH SCRATCH : https://scratch.mit.edu/users/ASTRONAUT_521/"><img src="https://avatars.githubusercontent.com/u/82920449?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sreehari521</b></sub></a><br /><a href="#ideas-Sreehari521" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ScratchAddons/contributors/commits?author=Sreehari521" title="Code">💻</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3ASreehari521" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
