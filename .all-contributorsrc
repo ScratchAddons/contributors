@@ -937,6 +937,16 @@
         "bug",
         "ideas"
       ]
+    },
+    {
+      "login": "leo",
+      "name": "Leo Lamprecht",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6170607?v=4",
+      "profile": "https://leo.im",
+      "contributions": [
+        "ideas",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
