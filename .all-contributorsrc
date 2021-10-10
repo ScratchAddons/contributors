@@ -957,6 +957,16 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Miala-python",
+      "name": "Miala",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65893041?v=4",
+      "profile": "https://scratch.mit.edu/users/totolune",
+      "contributions": [
+        "ideas",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 5,
