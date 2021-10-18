@@ -967,6 +967,16 @@
         "ideas",
         "bug"
       ]
+    },
+    {
+      "login": "Fupicat",
+      "name": "Fupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36973337?v=4",
+      "profile": "http://fupicat.github.io",
+      "contributions": [
+        "bug",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
