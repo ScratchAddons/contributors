@@ -967,6 +967,15 @@
         "ideas",
         "bug"
       ]
+    },
+    {
+      "login": "ilbailba",
+      "name": "ilyas zan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71350431?v=4",
+      "profile": "https://github.com/ilbailba",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
