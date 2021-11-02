@@ -967,6 +967,15 @@
         "ideas",
         "bug"
       ]
+    },
+    {
+      "login": "chills-vibe",
+      "name": "chills-vibe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93566753?v=4",
+      "profile": "https://github.com/chills-vibe",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
