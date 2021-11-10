@@ -127,7 +127,7 @@ _View the website version [here](https://scratchaddons.com/contributors)._
     <td align="center"><a href="https://github.com/griffpatch"><img src="https://avatars2.githubusercontent.com/u/6737342?v=4?s=100" width="100px;" alt=""/><br /><sub><b>griffpatch</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=griffpatch" title="Code">💻</a> <a href="#business-griffpatch" title="Business development">💼</a></td>
     <td align="center"><a href="https://github.com/hatrexpro"><img src="https://avatars.githubusercontent.com/u/79562332?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hatrexpro</b></sub></a><br /><a href="#translation-hatrexpro" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/hello34090"><img src="https://avatars.githubusercontent.com/u/83602831?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hello34090</b></sub></a><br /><a href="#translation-hello34090" title="Translation">🌍</a></td>
-  </tr>
+    </tr>
   <tr>
     <td align="center"><a href="https://github.com/jeffalo"><img src="https://avatars0.githubusercontent.com/u/40470736?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jeffalo</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=jeffalo" title="Code">💻</a> <a href="#ideas-jeffalo" title="Ideas, Planning, & Feedback">🤔</a> <a href="#video-jeffalo" title="Videos">📹</a></td>
     <td align="center"><a href="https://leahcimto.github.io"><img src="https://avatars0.githubusercontent.com/u/68165163?v=4?s=100" width="100px;" alt=""/><br /><sub><b>leahcimto</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aleahcimto" title="Bug reports">🐛</a> <a href="#ideas-leahcimto" title="Ideas, Planning, & Feedback">🤔</a></td>
@@ -154,6 +154,7 @@ _View the website version [here](https://scratchaddons.com/contributors)._
     <td align="center"><a href="https://github.com/thegAmechanger80"><img src="https://avatars.githubusercontent.com/u/75179701?v=4?s=100" width="100px;" alt=""/><br /><sub><b>thegAmechanger80</b></sub></a><br /><a href="#translation-thegAmechanger80" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/zafersafa007"><img src="https://avatars.githubusercontent.com/u/71785037?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zafersafa007</b></sub></a><br /><a href="#translation-zafersafa007" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/iltersinavv"><img src="https://avatars.githubusercontent.com/u/80217178?v=4?s=100" width="100px;" alt=""/><br /><sub><b>İlter Kayra Güler</b></sub></a><br /><a href="#translation-iltersinavv" title="Translation">🌍</a></td>
+  <td align="center"><a href="https://github.com/ilbailba"><img src="https://avatars.githubusercontent.com/u/71350431?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ilyas zan</b></sub></a><br /><a href="#translation-ilbailba" title="Translation">🌍</a></td>
   </tr>
 </table>
 
