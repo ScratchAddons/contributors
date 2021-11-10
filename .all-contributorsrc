@@ -975,6 +975,25 @@
       "profile": "https://github.com/Supernatnat11",
       "contributions": [
         "translation"
+      ]      
+    },
+    {
+      "login": "ilbailba",
+      "name": "ilyas zan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71350431?v=4",
+      "profile": "https://github.com/ilbailba",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "Fupicat",
+      "name": "Fupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36973337?v=4",
+      "profile": "http://fupicat.github.io",
+      "contributions": [
+        "bug",
+        "translation"
       ]
     }
   ],
