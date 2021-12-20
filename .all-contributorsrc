@@ -975,7 +975,7 @@
       "profile": "https://github.com/Supernatnat11",
       "contributions": [
         "translation"
-      ]      
+      ]
     },
     {
       "login": "ilbailba",
@@ -993,6 +993,15 @@
       "profile": "http://fupicat.github.io",
       "contributions": [
         "bug",
+        "translation"
+      ]
+    },
+    {
+      "login": "johnny263",
+      "name": "johnny263",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63039021?v=4",
+      "profile": "https://github.com/johnny263",
+      "contributions": [
         "translation"
       ]
     }
