@@ -975,7 +975,7 @@
       "profile": "https://github.com/Supernatnat11",
       "contributions": [
         "translation"
-      ]      
+      ]
     },
     {
       "login": "ilbailba",
@@ -994,6 +994,15 @@
       "contributions": [
         "bug",
         "translation"
+      ]
+    },
+    {
+      "login": "jumpycoke",
+      "name": "jumpycoke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97655997?v=4",
+      "profile": "https://github.com/jumpycoke",
+      "contributions": [
+        "ideas"
       ]
     }
   ],
