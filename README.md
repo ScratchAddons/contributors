@@ -8,7 +8,7 @@ Many thanks to these amazing people for contributing to the project by working o
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
 
-_Have contributed in any way? Read how to put your name [here](https://github.com/ScratchAddons/contributors/issues/136)._
+_Have contributed in any way? Read how to put your name [here](https://github.com/ScratchAddons/contributors/issues/183)._
 
 _View the website version [here](https://scratchaddons.com/contributors)._
 
