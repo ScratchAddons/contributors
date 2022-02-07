@@ -1032,6 +1032,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "itta611",
+      "name": "Itta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86896657?v=4",
+      "profile": "http://itta.dev",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 5,
