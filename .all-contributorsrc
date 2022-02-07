@@ -1073,6 +1073,15 @@
         "example",
         "code"
       ]
+    },
+    {
+      "login": "Chiroyce1",
+      "name": "Chiroyce",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97374054?v=4",
+      "profile": "https://scratch.mit.edu/users/Chiroyce",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 5,
