@@ -1032,6 +1032,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "ZenithRogue",
+      "name": "Bill Shoener",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11393734?v=4",
+      "profile": "https://twitter.com/zenithknight",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 5,
