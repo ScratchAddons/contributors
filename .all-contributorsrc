@@ -186,7 +186,8 @@
       "profile": "https://github.com/devxan",
       "contributions": [
         "bug",
-        "ideas"
+        "ideas",
+        "doc"
       ]
     },
     {
@@ -240,7 +241,7 @@
       ]
     },
     {
-      "login": "ZenithKnight",
+      "login": "ZenithRouge",
       "name": "Bill Shoener",
       "avatar_url": "https://avatars0.githubusercontent.com/u/11393734?v=4",
       "profile": "https://github.com/zenithrogue",
@@ -306,7 +307,8 @@
       "contributions": [
         "ideas",
         "bug",
-        "code"
+        "code",
+        "doc"
       ]
     },
     {
@@ -878,7 +880,8 @@
       "profile": "https://github.com/CST1229",
       "contributions": [
         "code",
-        "bug"
+        "bug",
+        "example"
       ]
     },
     {
@@ -907,7 +910,8 @@
       "contributions": [
         "bug",
         "code",
-        "ideas"
+        "ideas",
+        "example"
       ]
     },
     {
@@ -1031,6 +1035,42 @@
       "profile": "https://github.com/kebabo13",
       "contributions": [
         "translation"
+      ]
+    },
+    {
+      "login": "itta611",
+      "name": "Itta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86896657?v=4",
+      "profile": "https://github.com/itta611",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Looky1173",
+      "name": "Looky1173",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60521810?v=4",
+      "profile": "https://scratch.mit.edu/users/SuperScratcher_1234",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ChrisIsBadAtFnF",
+      "name": "ChrisIsBadAtFnF",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90082208?v=4",
+      "profile": "https://github.com/ChrisIsBadAtFnF",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "BarelySmooth",
+      "name": "BarelySmooth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83728060?v=4",
+      "profile": "https://github.com/BarelySmooth",
+      "contributions": [
+        "example"
       ]
     }
   ],
