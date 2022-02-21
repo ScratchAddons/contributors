@@ -1,9 +1,11 @@
-name: Build with commit count
+name: Prepare and Deploy Site
 
 on: 
   push:
     branches:
       - master
+    paths:
+      - .all-contributorsrc
   schedule:
     - cron: "0 * * * *"
 
@@ -43,3 +45,15 @@ jobs:
           new_branch: with-commits
         env:
           GITHUB_TOKEN: ${{secrets.GH_PAT}}
+      - name: Generate token
+        uses: tibdex/github-app-token@v1
+        id: generate-token
+        with:
+          app_id: ${{ secrets.BOT_APP_ID }}
+          private_key: ${{ secrets.BOT_PRIVATE_KEY }}
+      - name: Invoke workflow
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: Site Deployment
+          repo: ScratchAddons/website-v2
+          token: ${{ steps.generate-token.outputs.token }}
