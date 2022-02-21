@@ -1,4 +1,4 @@
-name: Prepare and Deploy Site
+name: Prepare and Deploy
 
 on: 
   push:
@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - .all-contributorsrc
+      - .github/workflows/prepare-and-deploy.yml
   schedule:
     - cron: "0 * * * *"
 
