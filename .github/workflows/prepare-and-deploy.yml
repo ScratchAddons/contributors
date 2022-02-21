@@ -8,7 +8,7 @@ on:
       - .all-contributorsrc
       - .github/workflows/prepare-and-deploy.yml
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
