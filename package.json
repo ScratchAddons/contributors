@@ -1,5 +1,5 @@
 {
-  "name": "sa-contributors",
+  "name": "@scratchaddons/contributors",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -9,8 +9,16 @@
     "run": "node src/index.js",
     "debug": "node src/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScratchAddons/contributors.git"
+  },
   "author": "Hans5958",
-  "license": "MIT",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ScratchAddons/contributors/issues"
+  },
+  "homepage": "https://github.com/ScratchAddons/contributors#readme",
   "dependencies": {
     "all-contributors-cli": "^6.20.0",
     "fs-extra": "^10.0.0",
