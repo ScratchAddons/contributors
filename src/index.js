@@ -1,8 +1,7 @@
 // import { Octokit } from "@octokit/rest"
 // const octokit = new Octokit()
 import fetch from 'node-fetch'
-import fs from 'fs'
-import stringifyB from 'json-beautify'
+import fs from 'fs-extra'
 
 const GITHUB_TOKEN = process.env.GH_PAT
 
@@ -107,6 +106,6 @@ console.log(`::set-output name=TIMESTAMP::${new Date().toISOString()}`)
 		}))()
 	])
 
-	fs.writeFileSync('contributors.json', stringifyB(contributors, null, '\t'))
+	fs.outputJSONSync('dist/contributors.json', contributors)
 
 })()

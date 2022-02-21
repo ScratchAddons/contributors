@@ -35,23 +35,23 @@ jobs:
         env:
           GH_PAT: ${{secrets.GH_PAT}}
         run: npm run run
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v8
-        with:
-          message: Update commit counts (${{steps.build.outputs.TIMESTAMP}})
-          author_name: scratchaddons-bot[bot]
-          author_email: 73682299+scratchaddons-bot[bot]@users.noreply.github.com
-          add: contributors.json
-          push: --force
-          new_branch: with-commits
-        env:
-          GITHUB_TOKEN: ${{secrets.GH_PAT}}
+
       - name: Generate token
         uses: tibdex/github-app-token@v1
         id: generate-token
         with:
           app_id: ${{ secrets.BOT_APP_ID }}
           private_key: ${{ secrets.BOT_PRIVATE_KEY }}
+
+      - name: Update branch with the folder
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ steps.generate-token.outputs.token }}
+          publish_dir: dist
+          force_orphan: true
+          publish_branch: with-commits
+          enable_jekyll: true
+
       - name: Invoke workflow
         uses: benc-uk/workflow-dispatch@v1
         with:
