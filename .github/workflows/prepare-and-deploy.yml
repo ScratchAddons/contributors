@@ -37,7 +37,6 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v8
         with:
-          force: true
           message: Update commit counts (${{steps.build.outputs.TIMESTAMP}})
           author_name: scratchaddons-bot[bot]
           author_email: 73682299+scratchaddons-bot[bot]@users.noreply.github.com
