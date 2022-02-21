@@ -42,6 +42,7 @@ jobs:
           author_name: scratchaddons-bot[bot]
           author_email: 73682299+scratchaddons-bot[bot]@users.noreply.github.com
           add: contributors.json
+          push: --force
           new_branch: with-commits
         env:
           GITHUB_TOKEN: ${{secrets.GH_PAT}}
