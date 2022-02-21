@@ -1,0 +1,20 @@
+{
+  "name": "sa-contributors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+      "test": "node src/index.js",
+      "run": "node src/index.js",
+      "debug": "node src/index.js"
+  },
+  "author": "Hans5958",
+  "license": "MIT",
+  "dependencies": {
+      "all-contributors-cli": "^6.20.0",
+      "child-process-promise": "^2.2.1",
+      "json-beautify": "^1.1.1",
+      "node-fetch": "^3.2.0"
+  }
+}

@@ -1,11 +1,13 @@
+name: Site Deployment
+
 on:
   push:
     branches:
       - master
+      - with-commits
     paths:
       - .all-contributorsrc
-
-name: Site Deployment
+      - contributors.json
 
 jobs:
   invoke:

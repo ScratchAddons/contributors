@@ -1,0 +1,45 @@
+name: Build with commit count
+
+on: 
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '16.x'
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - name: Install dependencies
+        run: npm install
+      - name: Build
+        id: build
+        env:
+          GH_PAT: ${{secrets.GH_PAT}}
+        run: npm run run
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v8
+        with:
+          force: true
+          message: Update commit counts (${{steps.build.outputs.TIMESTAMP}})
+          author_name: scratchaddons-bot[bot]
+          author_email: 73682299+scratchaddons-bot[bot]@users.noreply.github.com
+          add: contributors.json
+          new_branch: with-commits
+        env:
+          GITHUB_TOKEN: ${{secrets.GH_PAT}}
