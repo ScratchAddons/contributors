@@ -1110,6 +1110,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Dhuls-Scratch",
+      "name": "dhuls",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87714852?v=4",
+      "profile": "https://github.com/Dhuls-Scratch",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 5,
