@@ -308,7 +308,8 @@
         "ideas",
         "bug",
         "code",
-        "doc"
+        "doc",
+        "example"
       ]
     },
     {
@@ -1090,8 +1091,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/99140357?v=4",
       "profile": "https://scratch.mit.edu/users/Evrick_14/",
       "contributions": [
-        "translation",
-        "ideas"
+        "translation"
       ]
     },
     {
@@ -1127,16 +1127,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/97112832?v=4",
       "profile": "https://scratch.mit.edu/users/RIMOPA/",
       "contributions": [
-        "ideas","example"
-      ]
-    },
-    {
-      "login": "R081N-08",
-      "name": "VeryBlueMan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/88439743?v=4",
-      "profile": "https://github.com/R081N-08",
-      "contributions": [
-        "translation"
+        "example"
       ]
     }
   ],
