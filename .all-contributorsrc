@@ -1138,6 +1138,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "R081N-08",
+      "name": "VeryBlueMan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88439743?v=4",
+      "profile": "https://github.com/R081N-08",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
