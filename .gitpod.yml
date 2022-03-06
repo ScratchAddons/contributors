@@ -1,2 +1,0 @@
-tasks:
-  - init: npm install -g all-contributors-cli
