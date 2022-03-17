@@ -1206,6 +1206,15 @@
       "contributions": [
         "mod"
       ]
+    },
+    {
+      "login": "charalian",
+      "name": "Charalian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62511047?v=4",
+      "profile": "http://charalian.xyz",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
