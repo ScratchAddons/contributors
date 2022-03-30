@@ -20,7 +20,8 @@
         "maintenance",
         "ideas",
         "business",
-        "translation"
+        "translation",
+        "mod"
       ]
     },
     {
@@ -63,7 +64,8 @@
         "code",
         "doc",
         "ideas",
-        "bug"
+        "bug",
+        "mod"
       ]
     },
     {
@@ -187,7 +189,8 @@
       "contributions": [
         "bug",
         "ideas",
-        "doc"
+        "doc",
+        "mod"
       ]
     },
     {
@@ -197,7 +200,8 @@
       "profile": "https://retronbv.github.io/",
       "contributions": [
         "code",
-        "ideas"
+        "ideas",
+        "mod"
       ]
     },
     {
@@ -275,7 +279,8 @@
       "profile": "https://github.com/TheColaber",
       "contributions": [
         "code",
-        "example"
+        "example",
+        "mod"
       ]
     },
     {
@@ -286,7 +291,8 @@
       "contributions": [
         "ideas",
         "code",
-        "bug"
+        "bug",
+        "mod"
       ]
     },
     {
@@ -320,7 +326,8 @@
       "contributions": [
         "bug",
         "ideas",
-        "video"
+        "video",
+        "mod"
       ]
     },
     {
@@ -341,7 +348,8 @@
       "contributions": [
         "doc",
         "bug",
-        "code"
+        "code",
+        "mod"
       ]
     },
     {
@@ -514,7 +522,8 @@
       "contributions": [
         "code",
         "ideas",
-        "bug"
+        "bug",
+        "mod"
       ]
     },
     {
@@ -882,7 +891,8 @@
       "contributions": [
         "code",
         "bug",
-        "example"
+        "example",
+        "mod"
       ]
     },
     {
@@ -980,7 +990,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/80457483?v=4",
       "profile": "https://github.com/Supernatnat11",
       "contributions": [
-        "translation"
+        "translation",
+        "mod"
       ]
     },
     {
@@ -1012,8 +1023,8 @@
       ]
     },
     {
-      "login": "lercdsgn",
-      "name": "lercdsgn",
+      "login": "LercDsgn",
+      "name": "LercDsgn",
       "avatar_url": "https://avatars.githubusercontent.com/u/75680333?v=4",
       "profile": "https://github.com/LercDsgn",
       "contributions": [
@@ -1148,9 +1159,62 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Carsvroom",
+      "name": "Carsvroom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84688137?v=4",
+      "profile": "https://github.com/Carsvroom",
+      "contributions": [
+        "mod"
+      ]
+    },
+    {
+      "login": "shock59",
+      "name": "Shock59",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42130427?v=4",
+      "profile": "https://scratch.mit.edu/users/shock59",
+      "contributions": [
+        "mod",
+        "video"
+      ]
+    },
+    {
+      "login": "8bitjake",
+      "name": "8BitJake",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75950907?v=4",
+      "profile": "https://scratch.mit.edu/users/8bitjake",
+      "contributions": [
+        "mod"
+      ]
+    },
+    {
+      "login": "Aid0nModder",
+      "name": "Aidan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71894636?v=4",
+      "profile": "https://github.com/Aid0nModder",
+      "contributions": [
+        "mod",
+        "video"
+      ]
+    },
+    {
+      "login": "ChangedRuby",
+      "name": "ChangedRuby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65453800?v=4",
+      "profile": "https://github.com/ChangedRuby",
+      "contributions": [
+        "mod"
+      ]
     }
   ],
   "contributorsPerLine": 5,
   "contributorsSortAlphabetically": true,
-  "skipCi": false
+  "skipCi": false,
+  "types": {
+    "mod": {
+      "symbol": "🫂",
+      "description": "Community Moderator (Discord)"
+    }
+  }
 }
