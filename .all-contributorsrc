@@ -1233,6 +1233,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "DNin01",
+      "name": "DNin01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106490990?v=4",
+      "profile": "https://github.com/DNin01",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 5,
