@@ -1242,6 +1242,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "CowBloke",
+      "name": "CowBloke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108542216?v=4",
+      "profile": "https://github.com/CowBloke",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
