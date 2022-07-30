@@ -1251,6 +1251,17 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "BroJac5246",
+      "name": "BroJac5246",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104146239?v=4",
+      "profile": "https://github.com/BroJac5246",
+      "contributions": [
+        "code",
+        "bug",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 5,
