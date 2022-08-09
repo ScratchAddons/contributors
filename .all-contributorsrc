@@ -741,17 +741,6 @@
       ]
     },
     {
-      "login": "FunctionalMetatable",
-      "name": "FunctionalMetatable",
-      "avatar_url": "https://avatars.githubusercontent.com/u/67440879?v=4",
-      "profile": "https://scratch.mit.edu/users/9gr",
-      "contributions": [
-        "ideas",
-        "code",
-        "bug"
-      ]
-    },
-    {
       "login": "Barthdry",
       "name": "Barthdry",
       "avatar_url": "https://avatars.githubusercontent.com/u/67647112?v=4",
@@ -1330,6 +1319,17 @@
       "profile": "https://github.com/Sup2point0",
       "contributions": [
         "translation"
+      ]
+    },
+    {
+      "login": "Weredime",
+      "name": "Weredime",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100447465?v=4",
+      "profile": "https://github.com/Weredime",
+      "contributions": [
+        "ideas",
+        "code",
+        "bug"
       ]
     }
   ],
