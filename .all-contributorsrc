@@ -1255,6 +1255,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Late-Is-Cool",
+      "name": "late late late",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78447219?v=4",
+      "profile": "https://github.com/Late-Is-Cool",
+      "contributions": [
+        "mod"
+      ]
     }
   ],
   "contributorsPerLine": 5,
