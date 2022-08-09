@@ -1265,6 +1265,17 @@
       "contributions": [
         "mod"
       ]
+    },
+    {
+      "login": "BroJac5246",
+      "name": "brojac5246",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104146239?v=4",
+      "profile": "https://scratch.mit.edu/users/jbthepig/",
+      "contributions": [
+        "code",
+        "bug",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 5,
