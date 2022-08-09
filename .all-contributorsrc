@@ -1295,6 +1295,15 @@
       "contributions": [
         "mod"
       ]
+    },
+    {
+      "login": "disciple256",
+      "name": "disciple256",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99059596?v=4",
+      "profile": "https://github.com/disciple256",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
