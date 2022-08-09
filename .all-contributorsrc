@@ -1331,6 +1331,15 @@
         "code",
         "bug"
       ]
+    },
+    {
+      "login": "Bddj-10",
+      "name": "Bddj-10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87530908?v=4",
+      "profile": "https://github.com/Bddj-10",
+      "contributions": [
+        "mod"
+      ]
     }
   ],
   "contributorsPerLine": 5,
