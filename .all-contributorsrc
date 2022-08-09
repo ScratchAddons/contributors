@@ -77,7 +77,8 @@
         "code",
         "ideas",
         "doc",
-        "design"
+        "design",
+        "mod"
       ]
     },
     {
@@ -1284,6 +1285,15 @@
       "profile": "https://github.com/CubesterYT",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "TheWeirdo600",
+      "name": "Weirdo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99914376?v=4",
+      "profile": "https://t.co/64mlZgjrBW",
+      "contributions": [
+        "mod"
       ]
     }
   ],
