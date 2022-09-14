@@ -1359,6 +1359,15 @@
         "example",
         "ideas"
       ]
+    },
+    {
+      "login": "FunctionalMetatable",
+      "name": "metaify",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67440879?v=4",
+      "profile": "https://github.com/Weredime",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 5,
