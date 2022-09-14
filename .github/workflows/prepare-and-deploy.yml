@@ -58,4 +58,4 @@ jobs:
           workflow: Site Deployment
           repo: ScratchAddons/website-v2
           token: ${{ steps.generate-token.outputs.token }}
-          inputs: '{ "upload-repo": false }'
+          inputs: '{ "upload_repo": false }'
