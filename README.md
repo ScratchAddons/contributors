@@ -1,7 +1,7 @@
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-142-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-143-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -200,20 +200,21 @@ _View the website version [here](https://scratchaddons.com/contributors)._
       <td align="center"><a href="https://github.com/Weredime"><img src="https://avatars.githubusercontent.com/u/67440879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>metaify</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=FunctionalMetatable" title="Code">💻</a></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/mr-mph"><img src="https://avatars.githubusercontent.com/u/88854453?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mr-mph</b></sub></a><br /><a href="#mod-mr-mph" title="Community Moderator (Discord)">🫂</a></td>
       <td align="center"><a href="https://github.com/newcat07"><img src="https://avatars.githubusercontent.com/u/97903646?v=4?s=100" width="100px;" alt=""/><br /><sub><b>newcat07</b></sub></a><br /><a href="#translation-newcat07" title="Translation">🌍</a></td>
       <td align="center"><a href="https://github.com/oof-le-oof"><img src="https://avatars2.githubusercontent.com/u/74682558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>oof_le_oof</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Aoof-le-oof" title="Bug reports">🐛</a> <a href="#ideas-oof-le-oof" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center"><a href="https://github.com/piw-piw"><img src="https://avatars.githubusercontent.com/u/76477070?v=4?s=100" width="100px;" alt=""/><br /><sub><b>piw-piw</b></sub></a><br /><a href="#translation-piw-piw" title="Translation">🌍</a> <a href="#ideas-piw-piw" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center"><a href="https://github.com/remixsuper"><img src="https://avatars.githubusercontent.com/u/74250922?v=4?s=100" width="100px;" alt=""/><br /><sub><b>remixsuper</b></sub></a><br /><a href="#translation-remixsuper" title="Translation">🌍</a></td>
-      <td align="center"><a href="https://github.com/rens2"><img src="https://avatars.githubusercontent.com/u/67419424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rens2</b></sub></a><br /><a href="#translation-rens2" title="Translation">🌍</a></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/rens2"><img src="https://avatars.githubusercontent.com/u/67419424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rens2</b></sub></a><br /><a href="#translation-rens2" title="Translation">🌍</a></td>
       <td align="center"><a href="https://retronbv.github.io/"><img src="https://avatars.githubusercontent.com/u/49005044?v=4?s=100" width="100px;" alt=""/><br /><sub><b>retronbv</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/commits?author=retronbv" title="Code">💻</a> <a href="#ideas-retronbv" title="Ideas, Planning, & Feedback">🤔</a> <a href="#mod-retronbv" title="Community Moderator (Discord)">🫂</a></td>
       <td align="center"><a href="https://github.com/robloaks"><img src="https://avatars2.githubusercontent.com/u/61124367?v=4?s=100" width="100px;" alt=""/><br /><sub><b>robloaks</b></sub></a><br /><a href="#translation-robloaks" title="Translation">🌍</a></td>
       <td align="center"><a href="https://github.com/sfederici"><img src="https://avatars.githubusercontent.com/u/2651868?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sfederici</b></sub></a><br /><a href="#translation-sfederici" title="Translation">🌍</a> <a href="#ideas-sfederici" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center"><a href="https://github.com/superscratch444tre"><img src="https://avatars1.githubusercontent.com/u/69812464?v=4?s=100" width="100px;" alt=""/><br /><sub><b>superscratch444tre</b></sub></a><br /><a href="#translation-superscratch444tre" title="Translation">🌍</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Asuperscratch444tre" title="Bug reports">🐛</a> <a href="#ideas-superscratch444tre" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center"><a href="https://github.com/thegAmechanger80"><img src="https://avatars.githubusercontent.com/u/75179701?v=4?s=100" width="100px;" alt=""/><br /><sub><b>thegAmechanger80</b></sub></a><br /><a href="#translation-thegAmechanger80" title="Translation">🌍</a></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/thegAmechanger80"><img src="https://avatars.githubusercontent.com/u/75179701?v=4?s=100" width="100px;" alt=""/><br /><sub><b>thegAmechanger80</b></sub></a><br /><a href="#translation-thegAmechanger80" title="Translation">🌍</a></td>
       <td align="center"><a href="https://github.com/zafersafa007"><img src="https://avatars.githubusercontent.com/u/71785037?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zafersafa007</b></sub></a><br /><a href="#translation-zafersafa007" title="Translation">🌍</a></td>
       <td align="center"><a href="https://github.com/iltersinavv"><img src="https://avatars.githubusercontent.com/u/80217178?v=4?s=100" width="100px;" alt=""/><br /><sub><b>İlter Kayra Güler</b></sub></a><br /><a href="#translation-iltersinavv" title="Translation">🌍</a></td>
     </tr>
