@@ -1368,6 +1368,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "MaterArc",
+      "name": "MaterArc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105017592?v=4",
+      "profile": "https://materarc.github.io/sdshelpers.github.io/",
+      "contributions": [
+        "mod"
+      ]
     }
   ],
   "contributorsPerLine": 5,
