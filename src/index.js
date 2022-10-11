@@ -61,7 +61,7 @@ const getCommits = async request => {
 	}
 }
 
-console.log(`::set-output name=TIMESTAMP::${new Date().toISOString()}`)
+fs.writeFileSync(process.env.GITHUB_OUTPUT, `name=TIMESTAMP::${new Date().toISOString()}`)
 
 ;(async () => {
 	let contributors = []
