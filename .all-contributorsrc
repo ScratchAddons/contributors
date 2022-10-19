@@ -1404,6 +1404,16 @@
       "contributions": [
         "mod"
       ]
+    },
+    {
+      "login": "Wjplatformer",
+      "name": "Wj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82447031?v=4",
+      "profile": "https://wjplatformer.github.io/",
+      "contributions": [
+        "translation",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 5,
