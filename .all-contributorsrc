@@ -1414,6 +1414,15 @@
         "translation",
         "doc"
       ]
+    },
+    {
+      "login": "BelkaBoi",
+      "name": "Belka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108747883?v=4",
+      "profile": "https://belka.ml",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
