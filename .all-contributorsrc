@@ -1414,6 +1414,16 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "GitHub027",
+      "name": "mouse_sausage",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85628289?v=4",
+      "profile": "https://github.com/GitHub027",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 5,
