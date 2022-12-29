@@ -1414,6 +1414,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "mel0n7",
+      "name": "Melon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99061680?v=4",
+      "profile": "https://github.com/Mel0n7",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 5,
