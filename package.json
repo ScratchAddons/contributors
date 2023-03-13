@@ -22,6 +22,6 @@
   "dependencies": {
     "all-contributors-cli": "^6.24.0",
     "fs-extra": "^11.1.0",
-    "node-fetch": "^3.3.0"
+    "node-fetch": "^3.3.1"
   }
 }
