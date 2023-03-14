@@ -1443,6 +1443,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "I-milep",
+      "name": "I-milep",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127856226?v=4",
+      "profile": "https://github.com/I-milep",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
