@@ -7,7 +7,10 @@
   "scripts": {
     "test": "node src/index.js",
     "run": "node src/index.js",
-    "debug": "node src/index.js"
+    "debug": "node src/index.js",
+    "ac": "npx all-contributors",
+    "aca": "npx all-contributors add",
+    "acg": "npx all-contributors generate"
   },
   "repository": {
     "type": "git",
