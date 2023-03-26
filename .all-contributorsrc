@@ -1686,6 +1686,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "Exlectruz",
+      "name": "Kevz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79061511?v=4",
+      "profile": "https://www.youtube.com/channel/UCMOMwm5K8mm8kA8hhMC7AQA",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 5,
