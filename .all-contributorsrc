@@ -1463,6 +1463,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "EightSidedBrick",
+      "name": "EightSidedBrick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108944265?v=4",
+      "profile": "https://github.com/EightSidedBrick",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 5,
