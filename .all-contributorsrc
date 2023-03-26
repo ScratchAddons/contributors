@@ -1604,6 +1604,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "awful-coder",
+      "name": "kyle zhou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62647827?v=4",
+      "profile": "https://github.com/awful-coder",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 5,
