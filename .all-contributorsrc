@@ -1530,6 +1530,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "Oren-Lindsey",
+      "name": "Oren Lindsey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67929847?v=4",
+      "profile": "https://lindsey.studio/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 5,
