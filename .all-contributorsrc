@@ -1520,6 +1520,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "DogCatPuppyLover",
+      "name": "Isla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79656307?v=4",
+      "profile": "https://scratch.mit.edu/users/DogCatPuppyLover/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 5,
