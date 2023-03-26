@@ -1623,6 +1623,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "1enss",
+      "name": "lens",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83427897?v=4",
+      "profile": "https://www.lunarr.cf/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 5,
