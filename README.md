@@ -1,7 +1,7 @@
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-159-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-160-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Many thanks to these amazing people for contributing to the project by working on Scratch Addons, its features, its themes, its website, etc. ([emoji key](https://allcontributors.org/docs/en/emoji-key))
@@ -237,6 +237,7 @@ _View the website version [here](https://scratchaddons.com/contributors)._
     <tr>
       <td align="center" valign="top" width="20%"><a href="https://github.com/superscratch444tre"><img src="https://avatars1.githubusercontent.com/u/69812464?v=4?s=100" width="100px;" alt="superscratch444tre"/><br /><sub><b>superscratch444tre</b></sub></a><br /><a href="#translation-superscratch444tre" title="Translation">🌍</a> <a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Asuperscratch444tre" title="Bug reports">🐛</a> <a href="#ideas-superscratch444tre" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/thegAmechanger80"><img src="https://avatars.githubusercontent.com/u/75179701?v=4?s=100" width="100px;" alt="thegAmechanger80"/><br /><sub><b>thegAmechanger80</b></sub></a><br /><a href="#translation-thegAmechanger80" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/webdev03"><img src="https://avatars.githubusercontent.com/u/75148774?v=4?s=100" width="100px;" alt="webdev03"/><br /><sub><b>webdev03</b></sub></a><br /><a href="https://github.com/ScratchAddons/contributors/issues?q=author%3Awebdev03" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/zafersafa007"><img src="https://avatars.githubusercontent.com/u/71785037?v=4?s=100" width="100px;" alt="zafersafa007"/><br /><sub><b>zafersafa007</b></sub></a><br /><a href="#translation-zafersafa007" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/iltersinavv"><img src="https://avatars.githubusercontent.com/u/80217178?v=4?s=100" width="100px;" alt="İlter Kayra Güler"/><br /><sub><b>İlter Kayra Güler</b></sub></a><br /><a href="#translation-iltersinavv" title="Translation">🌍</a></td>
     </tr>
