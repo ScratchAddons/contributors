@@ -1539,6 +1539,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "Mbrick2",
+      "name": "Mbrick2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90691415?v=4",
+      "profile": "https://github.com/Mbrick2",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 5,
