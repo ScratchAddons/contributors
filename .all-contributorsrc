@@ -1697,6 +1697,17 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "mybearworld",
+      "name": "mybearworld",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130385691?v=4",
+      "profile": "https://mybearworld.github.io/",
+      "contributions": [
+        "ideas",
+        "bug",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 5,
