@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ScratchAddons/contributors#readme",
   "dependencies": {
-    "all-contributors-cli": "^6.25.0",
+    "all-contributors-cli": "^6.26.0",
     "fs-extra": "^11.1.1",
     "node-fetch": "^3.3.1"
   }
