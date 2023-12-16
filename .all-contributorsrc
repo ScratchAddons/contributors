@@ -1713,6 +1713,16 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "Zydrolic",
+      "name": "Zy!",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150537842?v=4",
+      "profile": "https://github.com/Zydrolic",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 5,
