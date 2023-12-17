@@ -1723,6 +1723,16 @@
         "bug",
         "ideas"
       ]
+    },
+    {
+      "login": "mdwalters",
+      "name": "Max Walters",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67456566?v=4",
+      "profile": "http://mdwalters.codeberg.page",
+      "contributions": [
+        "code",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
