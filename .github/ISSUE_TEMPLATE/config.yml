@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Send Feedback
+    url: https://scratchaddons.com/docs/faq/#what-can-i-do-if-i-find-a-problem
+    about: Trying to leave feedback? Go here to learn more.
