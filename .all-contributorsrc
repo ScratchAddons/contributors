@@ -1733,6 +1733,15 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "jack-oid",
+      "name": "jack-oid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154941233?v=4",
+      "profile": "https://github.com/jack-oid",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 5,
