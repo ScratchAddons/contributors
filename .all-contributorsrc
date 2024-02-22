@@ -1733,6 +1733,15 @@
         "code",
         "translation"
       ]
+    },
+    {
+      "login": "Joeclinton1",
+      "name": "Joe Clinton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48254978?v=4",
+      "profile": "https://github.com/Joeclinton1",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 5,
