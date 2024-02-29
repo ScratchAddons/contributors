@@ -1742,6 +1742,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "pumpsnacktv",
+      "name": "HosekiTheGlaceon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156066211?v=4",
+      "profile": "https://github.com/pumpsnacktv",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
