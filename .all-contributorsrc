@@ -1744,6 +1744,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Oldcoinmania",
+      "name": "Oldcoinmania",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137684242?v=4",
+      "profile": "https://github.com/Oldcoinmania",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
