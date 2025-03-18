@@ -1803,6 +1803,15 @@
       "contributions": [
         "mod"
       ]
+    },
+    {
+      "login": "AmpElectrecuted",
+      "name": "AmpElectrecuted",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197376797?v=4",
+      "profile": "https://github.com/AmpElectrecuted",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 5,
