@@ -118,10 +118,10 @@
       ]
     },
     {
-      "login": "GDUcrash",
+      "login": "gducrash",
       "name": "Ucrash",
       "avatar_url": "https://avatars.githubusercontent.com/u/35695734?v=4",
-      "profile": "https://github.com/GDUcrash",
+      "profile": "https://github.com/gducrash",
       "contributions": [
         "code",
         "design"
@@ -1129,8 +1129,8 @@
       ]
     },
     {
-      "login": "RIMOPA",
-      "name": "RIMOPA",
+      "login": "rimopa",
+      "name": "rimopa",
       "avatar_url": "https://avatars.githubusercontent.com/u/97112832?v=4",
       "profile": "https://scratch.mit.edu/users/RIMOPA/",
       "contributions": [
@@ -1759,12 +1759,13 @@
       ]
     },
     {
-      "login": "TheYande",
-      "name": "Yande",
+      "login": "thenatally",
+      "name": "Tally",
       "avatar_url": "https://avatars.githubusercontent.com/u/113806118?v=4",
-      "profile": "https://yande.dev",
+      "profile": "https://tally.gay",
       "contributions": [
-        "mod"
+        "mod",
+        "code"
       ]
     },
     {
@@ -1809,6 +1810,33 @@
       "name": "AmpElectrecuted",
       "avatar_url": "https://avatars.githubusercontent.com/u/197376797?v=4",
       "profile": "https://github.com/AmpElectrecuted",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Waakul",
+      "name": "Waakul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135821321?v=4",
+      "profile": "https://github.com/Waakul",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "michaeleldar",
+      "name": "michaeleldar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66514999?v=4",
+      "profile": "https://github.com/michaeleldar",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "raynecloudy",
+      "name": "rayne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129226914?v=4",
+      "profile": "https://github.com/raynecloudy",
       "contributions": [
         "code"
       ]
