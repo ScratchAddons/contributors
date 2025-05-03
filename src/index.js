@@ -75,7 +75,7 @@ fs.writeFileSync(process.env.GITHUB_OUTPUT, `TIMESTAMP=${new Date().toISOString(
 				// console.log(contributors)
 				// console.log(response)
 				response.contributors.forEach(responseItem => {
-					let index = contributors.findIndex(contributorsItem => contributorsItem.login === responseItem.login)
+					let index = contributors.findIndex(contributorsItem => contributorsItem.login.toLowerCase() === responseItem.login.toLowerCase())
 					if (index === -1) {
 						contributors.push({})
 						index = contributors.length - 1
@@ -93,7 +93,7 @@ fs.writeFileSync(process.env.GITHUB_OUTPUT, `TIMESTAMP=${new Date().toISOString(
 			let response = await getCommits()
 			while (contributors.length === 0) await new Promise(resolve => setTimeout(resolve, 250))
 			response.forEach(responseItem => {
-				let index = contributors.findIndex(contributorsItem => contributorsItem.login === responseItem.login)
+				let index = contributors.findIndex(contributorsItem => contributorsItem.login.toLowerCase() === responseItem.login.toLowerCase())
 				if (index === -1) {
 					contributors.push({})
 					index = contributors.length - 1
