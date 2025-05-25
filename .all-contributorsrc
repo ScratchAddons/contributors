@@ -1851,6 +1851,15 @@
         "bug",
         "ideas"
       ]
+    },
+    {
+      "login": "NDKcute",
+      "name": "Nguyễn Duy Khoa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168964444?v=4",
+      "profile": "https://github.com/NDKcute",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 5,
