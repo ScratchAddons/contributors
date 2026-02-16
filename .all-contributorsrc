@@ -1860,6 +1860,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "RedPandaGuy1234",
+      "name": "RedPandaGuy1234",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254939784?v=4",
+      "profile": "https://github.com/RedPandaGuy1234",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 5,
